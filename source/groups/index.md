@@ -28,7 +28,7 @@ date: 2025-09-16 10:57:45
 1 群：1059470620
 链接: https://qm.qq.com/q/fLWfZDGMSc
 二维码:
-{% img /images/qrcode_group_1.png 250 "一群" %}
+{% img /images/qrcode_group_1.jpg 250 "一群" %}
 
 2 群：951750391
 链接: https://qm.qq.com/q/avnlvufs2c
