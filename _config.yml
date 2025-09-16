@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/anka-afk.github.io/sowing_discord_center
+url: https://anka-afk.github.io/sowing_discord_center
 root: /sowing_discord_center/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
