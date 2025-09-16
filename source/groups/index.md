@@ -53,7 +53,7 @@ date: 2025-09-16 10:57:45
 {% img /images/qrcode_group_5.jpg 250 "五群" %}
 
 6 群：995386480
-链接: https://qm.qq.com/q/3I8eoieUze
+链接: https://qm.qq.com/q/vDSOzc2Vyg
 二维码:
 {% img /images/qrcode_group_6.jpg 250 "六群" %}
 
