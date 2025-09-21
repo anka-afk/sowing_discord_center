@@ -32,8 +32,8 @@ date: 2025-09-16 10:57:46
 二维码:
 {% img /images/qrcode_group_1.jpg 250 "一群" %}
 
-2 群：951750391
-链接: https://qm.qq.com/q/avnlvufs2c
+2 群：983649853
+链接: https://qm.qq.com/q/2FG7T6ukdi
 二维码:
 {% img /images/qrcode_group_2.jpg 250 "二群" %}
 
