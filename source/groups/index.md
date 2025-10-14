@@ -27,8 +27,8 @@ date: 2025-09-16 10:57:46
 
 注意:群号很可能无法搜索!所以请使用链接
 
-1 群：1064500065
-链接: https://qm.qq.com/q/gafNwOGkv0
+1 群：921926398
+链接: https://qm.qq.com/q/MU0ZNLV7yy
 二维码:
 {% img /images/qrcode_group_1.jpg 250 "一群" %}
 
