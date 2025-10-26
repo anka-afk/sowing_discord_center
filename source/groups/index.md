@@ -69,8 +69,8 @@ date: 2025-09-16 10:57:46
 二维码:
 {% img /images/qrcode_group_chat_2.jpg 250 "聊天群 2" %}
 
-聊天群 3：920733548
-链接: https://qm.qq.com/q/Ji4gtmqhKE
+聊天群 3：1019369531
+链接: https://qm.qq.com/q/zPdzdRcwXC
 二维码:
 {% img /images/qrcode_group_chat_3.jpg 250 "聊天群 3" %}
 
