@@ -3,7 +3,9 @@ title: 搬史中心入口
 date: 2025-09-16 10:57:46
 ---
 
-机器人项目地址: https://github.com/Soulter/AstrBot (正在维护!)
+# 最后更新日期: 2026-02-05
+
+机器人项目地址: https://github.com/AstrBotDevs/AstrBot (正在维护!)
 插件地址: https://github.com/anka-afk/astrbot_sowing_discord (以后还会再更新!(很可能!))
 
 # 入口群
@@ -11,10 +13,10 @@ date: 2025-09-16 10:57:46
 因为大群经常爆炸, 防止迷路, 可以加入入口群(也可以收藏本页)
 当然, 入口群也可能爆炸就是了
 
-一号:1042784071
-二号:1029720345
-三号:1057666434
-四号:1034659051
+一号:416866010
+二号:1079453057
+三号:1080375721
+四号:1083031108
 
 # 频道
 
@@ -47,8 +49,8 @@ date: 2025-09-16 10:57:46
 二维码:
 {% img /images/qrcode_group_4.jpg 250 "四群" %}
 
-5 群：981079968
-链接: https://qm.qq.com/q/nlKPpHSRnU
+5 群：1083032950
+链接: https://qm.qq.com/q/JuqpSoIuAM
 二维码:
 {% img /images/qrcode_group_5.jpg 250 "五群" %}
 
@@ -59,13 +61,13 @@ date: 2025-09-16 10:57:46
 
 # 聊天群(可以到这里聊天!)
 
-聊天群 1：1019664161
-链接: https://qm.qq.com/q/EpwIA4FAC6
+聊天群 1：1079547959
+链接: https://qm.qq.com/q/KNfTOymN4m
 二维码:
 {% img /images/qrcode_group_chat_1.jpg 250 "聊天群 1" %}
 
-聊天群 2 复活第二次版：1049074255
-链接: https://qm.qq.com/q/CznQIKly9i
+聊天群 2：695183253
+链接: https://qm.qq.com/q/w9aB4GQOvQ
 二维码:
 {% img /images/qrcode_group_chat_2.jpg 250 "聊天群 2" %}
 
@@ -73,6 +75,11 @@ date: 2025-09-16 10:57:46
 链接: https://qm.qq.com/q/zPdzdRcwXC
 二维码:
 {% img /images/qrcode_group_chat_3.jpg 250 "聊天群 3" %}
+
+聊天群 1+1: 853901829
+链接:https://qm.qq.com/q/MPsnFmci0s
+二维码:
+{% img /images/qrcode_group_chat_1_1.jpg 250 "聊天群 1+1" %}
 
 # 电报(无人管辖地带...)
 
