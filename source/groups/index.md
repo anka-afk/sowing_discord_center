@@ -29,8 +29,8 @@ date: 2025-09-16 10:57:46
 二维码:
 {% img /images/qrcode_group_1.jpg 250 "一群" %}
 
-2 群：983649853
-链接: https://qm.qq.com/q/2FG7T6ukdi
+2 群：971947629
+链接: https://qm.qq.com/q/wEwzU2gSBi
 二维码:
 {% img /images/qrcode_group_2.jpg 250 "二群" %}
 
