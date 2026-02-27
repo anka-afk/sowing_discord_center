@@ -29,18 +29,18 @@ date: 2025-09-16 10:57:46
 二维码:
 {% img /images/qrcode_group_1.jpg 250 "一群" %}
 
-2 群：971947629
-链接: https://qm.qq.com/q/wEwzU2gSBi
+2 群：949235877
+链接: https://qm.qq.com/q/RBboyyvkQM
 二维码:
 {% img /images/qrcode_group_2.jpg 250 "二群" %}
 
-3 群：870198874
-链接: https://qm.qq.com/q/Cnv80KtWcU
+3 群：1087805702
+链接: https://qm.qq.com/q/lN8n4ZXLFu
 二维码:
 {% img /images/qrcode_group_3.jpg 250 "三群" %}
 
-4 群：1036266098
-链接: https://qm.qq.com/q/Ul8jPkfDUI
+4 群：733915398
+链接: https://qm.qq.com/q/u4UabcK62Y
 二维码:
 {% img /images/qrcode_group_4.jpg 250 "四群" %}
 
